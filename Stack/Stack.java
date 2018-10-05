@@ -2,7 +2,8 @@ package Stack;
 
 import java.util.EmptyStackException;
 
-/* Explanation:
+/* Noe Pineda 10/4/2018
+ * Explanation:
  * A stack is an abstract data type which allows for 
  * elements to be stored in a collection. Stacks are a 'last in, first out'
  * collection. This means that the last element added to the collection will

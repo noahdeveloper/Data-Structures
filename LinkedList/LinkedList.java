@@ -1,6 +1,7 @@
 package LInkedListGitHub;
 
-/*
+/* Noe Pineda 10/1/2018
+ *
  * Explanation: 
  * Linked lists are a data structure that are similar to arrays in the sense that 
  * they too store elements in a linear format. Linked lists differentiate from arrays 
@@ -8,10 +9,6 @@ package LInkedListGitHub;
  * Each node stores two values one being the value of the element being stored and 
  * the other value being a reference to the next node in the list.
  * 
- * Time complexity:
- * 	Insertion and deletion: O(1)
- * 	Retrieval: O(n) 
- */
 
 
 //This linked list class will use generics to allow for the class 
