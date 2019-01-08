@@ -50,10 +50,11 @@ public class TreeNode {
 			if(leftChild != null) {
 				return leftChild.get(value);
 			}
-			else {
-				if(rightChild != null) {
-					return rightChild.get(value);
-				}
+			
+		}
+		else {
+			if(rightChild != null) {
+				return rightChild.get(value);
 			}
 		}
 		
